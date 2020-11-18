@@ -1,0 +1,36 @@
+module.exports = {
+  title: 'Deadline',
+  logo: '',
+  url: 'https://djaduls.dev',
+  favicon: '../common/static/favicon/favicon.png',
+  cover: '',
+  legalName: 'djaduls Inc',
+  description: 'React Gatsby Coming soon template',
+  socialLinks: {
+    twitter: '',
+    github: '',
+    linkedin: '',
+    instagram: '',
+    youtube: '',
+    google: '',
+  },
+  googleAnalyticsID: '',
+  themeColor: '#000696',
+  backgroundColor: '#6496f6',
+  social: {
+    facebook: '',
+    twitter: '',
+  },
+  address: {
+    city: '',
+    region: '',
+    country: '',
+    zipCode: '',
+  },
+  contact: {
+    email: '',
+    phone: '',
+  },
+  foundingDate: '2019',
+  googleVerification: 'xxx',
+};
